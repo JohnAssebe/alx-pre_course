@@ -1,0 +1,5 @@
+ git status
+ git add .
+ git commit -m "How to be up to date in git"
+ git remote add origin https://github.com/JohnAssebe/alx-pre_course
+ git push -u origin master
