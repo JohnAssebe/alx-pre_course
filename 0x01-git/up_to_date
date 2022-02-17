@@ -1,5 +1,6 @@
    git init 
    git status
+   git pull https://github.com/JohnAssebe/alx-pre_course/main/0x01-git
    git add .
    git commit -m "How to be up to date in git"
    git remote add origin https://github.com/JohnAssebe/alx-pre_course/main/0x01-git
